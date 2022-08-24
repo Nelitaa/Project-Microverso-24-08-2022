@@ -1,0 +1,34 @@
+#nav-bar {
+    position: absolute;
+    top: 0;
+    margin: 0;
+    padding: 0
+  }
+  #video {
+    width: 50vw;
+    height: 40vh;
+    position: absolute;
+    top: 60vh
+  }
+  img {
+    width: 50vw;
+    height: 30vh
+  }
+  @media (max-width: 1000px){
+    html {
+      background: linear-gradient(30deg, aqua, gray)
+    }
+  }
+  body {
+    margin: 2rem auto;
+    display: flex
+  }
+  #form {
+    position: absolute;
+    top: 50vh
+  }
+  div {
+    position: absolute;
+    top: 60vh
+  }
+  
